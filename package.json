@@ -6,6 +6,7 @@
     "vite-plugin-imp": "^2.4.0"
   },
   "scripts": {
+    "dev": "vite",
     "build": "vite build"
   },
   "dependencies": {
