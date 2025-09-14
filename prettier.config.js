@@ -1,5 +1,5 @@
 
-export default module.exports = {
+export default {
   printWidth: 100,
   // 每行最大字符数。100 兼顾可读性和更少的换行，适合 TSX。
 
