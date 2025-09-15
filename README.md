@@ -1,2 +1,2 @@
-# react
-react 18、 react-router 5 、mobx 6、antd 5、 typescript back-stage management scaffold framework
+# Destine
+使用react 19、 react-router 7 、zustand 5 、mantine 8、 typescript搭建的react 开发环境
