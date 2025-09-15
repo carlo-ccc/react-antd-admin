@@ -1,2 +1,2 @@
 # Destine
-使用react 19、 react-router 7 、zustand 5 、mantine 8、 typescript搭建的react 开发环境
+A React development environment built with React 19, React Router 7, Zustand 5, Mantine 8, and TypeScript.
